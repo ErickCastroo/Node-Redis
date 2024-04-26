@@ -1,0 +1,4 @@
+Redis es una base de datos de código abierto que se utiliza principalmente como almacén de estructuras de datos en memoria, 
+lo que significa que guarda los datos en la RAM en lugar de en el disco.
+Es extremadamente rápido y se utiliza para caché, sesiones de usuario, contadores en tiempo real, y más.
+Además, ofrece una amplia variedad de estructuras de datos, como cadenas, listas, conjuntos, mapas hash, y más, lo que lo hace versátil para una variedad de aplicaciones.
